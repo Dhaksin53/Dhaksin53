@@ -11,7 +11,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dhaksin53&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
 
 ```bash
-$ whoami
+$ who am i
   Dhaksin S
   AI Forward Deploy Engineer
 
@@ -30,7 +30,7 @@ $ cat ./mission.txt
 
 ---
 
-## `// current_status.json`
+## `Current_Status`
 
 ```json
 {
@@ -45,7 +45,7 @@ $ cat ./mission.txt
 
 ---
 
-## `// tech_arsenal.sh`
+## `Tech Stack`
 
 <div align="center">
 
@@ -76,7 +76,7 @@ $ cat ./mission.txt
 
 ---
 
-## `// experience.log`
+## `Experience`
 
 ```log
 [2025-now] ROLE: AI Forward Deploy Engineer
@@ -95,21 +95,9 @@ $ cat ./mission.txt
            DEGR: B.E · Computer Science & Engineering
 ```
 
----
 
-## `// shipped_projects/`
 
-| `project` | `what it solves` | `stack` | `status` |
-|-----------|-----------------|---------|----------|
-| [📡 fastag-fraud-detection](https://github.com/Dhaksin53/Fastag-Fraud-Detection) | Catches toll fraud before humans blink | Python · scikit-learn | `deployed` |
-| [🧬 breast-cancer-predictor](https://github.com/Dhaksin53/BreastCancer-Prediction) | Clinical ML with real diagnostic value | Python · ML | `shipped` |
-| [📈 stock-market-classifier](https://github.com/Dhaksin53/Stock-Market-Prediction) | Market trend prediction from history | ML · Pandas | `shipped` |
-| [📚 bookstore-mern](https://github.com/Dhaksin53/BookStore-Mern) | Full-stack book e-commerce platform | MERN Stack | `live` |
-| [🌦️ weather-app](https://github.com/Dhaksin53/Weather-App) | Real-time weather with live API | JavaScript | `live` |
-
----
-
-## `// github_stats/`
+## `Github_stats`
 
 <div align="center">
 
@@ -121,7 +109,7 @@ $ cat ./mission.txt
 
 ---
 
-## `// find_me/`
+## `Find_me`
 
 <div align="center">
 
