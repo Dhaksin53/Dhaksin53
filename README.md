@@ -11,17 +11,17 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dhaksin53&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
 
 ```bash
-$ who am i
+
   Dhaksin S
   AI Forward Deploy Engineer
 
-$ cat ./status
+
   ● Role    → AI Forward Deployed Engineer
   ● Based   → Chennai, Tamil Nadu 🇮🇳
   ● College → St. Joseph's COE
   ● Mail    → dhaksin53@gmail.com
 
-$ cat ./mission.txt
+
   "Models don't matter
    until they're deployed."
 ```
@@ -101,7 +101,6 @@ $ cat ./mission.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaksin53&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="40%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhaksin53&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=58a6ff&currStreakLabel=39d353" width="48%"/>
 
