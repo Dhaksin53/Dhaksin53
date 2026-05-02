@@ -26,7 +26,7 @@
    until they're deployed."
 ```
 
-<br clear="right"/>
+
 
 ---
 
