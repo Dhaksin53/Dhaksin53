@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:39d353&height=200&section=header&text=Dhaksin%20S&fontSize=60&fontColor=39d353&fontAlignY=38&desc=AI%20Forward%20Deploy%20Engineer&descAlignY=60&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:39d353&height=200&section=header&text=Dhaksin%20S&fontSize=60&fontColor=39d353&fontAlignY=38&desc=AI%20Forward%20Deployed%20Engineer&descAlignY=60&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=39D353&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Shipping+AI+from+Research+%E2%86%92+Reality;LLMs+%7C+MLOps+%7C+RAG+Pipelines+%7C+Field+Deploy" />
 
@@ -16,7 +16,7 @@ $ whoami
   AI Forward Deploy Engineer
 
 $ cat ./status
-  ● Role    → AI Forward Deploy Engineer
+  ● Role    → AI Forward Deployed Engineer
   ● Based   → Chennai, Tamil Nadu 🇮🇳
   ● College → St. Joseph's COE
   ● Mail    → dhaksin53@gmail.com
