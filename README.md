@@ -22,8 +22,7 @@
   ● Mail    → dhaksin53@gmail.com
 
 
-  "Models don't matter
-   until they're deployed."
+  "Models don't matter until they're deployed."
 ```
 
 
