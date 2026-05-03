@@ -13,7 +13,7 @@
 ```bash
 
   Dhaksin S
-  AI Forward Deploy Engineer
+  AI Forward Deployed Engineer
 
 
   ● Role    → AI Forward Deployed Engineer
