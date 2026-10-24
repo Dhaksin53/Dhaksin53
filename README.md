@@ -101,20 +101,6 @@ Working directly with real environments and users to get AI live and performing.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🕵️ **Fraud Detection** | Classifies fraudulent transactions from imbalanced data | `Python` `scikit-learn` `Pandas` |
-| 🧬 **Cancer Prediction** | Predicts diagnosis from clinical features | `Python` `scikit-learn` `Jupyter` |
-| 📈 **Stock Classifier** | Classifies stock movement trends | `Python` `scikit-learn` `Pandas` |
-| 📚 **BookStore** | Full-stack MERN app for browsing and managing books | `MongoDB` `Express` `React` `Node.js` |
-| 🌦️ **Weather App** | Live weather lookup with a clean UI | `React` `Node.js` `REST API` |
-
-> 📌 Pin your best 6 repositories and link them above. Add RAG and deployment projects as you ship them.
-
----
-
 ## 🧱 How I Ship AI
 
 ```mermaid
