@@ -31,7 +31,7 @@ $ echo $QUOTE
 - 🔭 Deploying, monitoring and optimizing **LLM and RAG systems** in production
 - 🌱 Currently learning **Agentic AI, LLM Fine-tuning and Distributed Inference**
 - 🤝 Open to **AI collabs, open-source ML and GenAI projects**
-- 🎓 B.E. Computer Science & Engineering, **St. Joseph's College of Engineering, Chennai**
+- 🎓 B.Tech Artificial Intelligence and Data Science, **St. Joseph's College of Engineering, Chennai**
 - 📍 Chennai, Tamil Nadu, India 🇮🇳
 - 📫 Reach me at **dhaksin53@gmail.com**
 
