@@ -16,22 +16,12 @@
 
 ## 👋 About Me
 
-```text
-$ whoami
-> Dhaksin S, AI Forward Deployed Engineer
 
-$ cat mission.txt
-> I take AI models out of notebooks and put them in front of real users.
-> Deploy. Monitor. Optimize. Repeat.
-
-$ echo $QUOTE
-> "Models don't matter until they're deployed."
-```
 
 - 🔭 Deploying, monitoring and optimizing **LLM and RAG systems** in production
 - 🌱 Currently learning **Agentic AI, LLM Fine-tuning and Distributed Inference**
 - 🤝 Open to **AI collabs, open-source ML and GenAI projects**
-- 🎓 B.E. Computer Science & Engineering, **St. Joseph's College of Engineering, Chennai**
+- 🎓 B.Tech. Artificial Intelligence and Data Science, **St. Joseph's College of Engineering, Chennai**
 - 📍 Chennai, Tamil Nadu, India
 - 📫 Reach me at **dhaksin53@gmail.com**
 
